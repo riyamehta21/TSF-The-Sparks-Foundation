@@ -6,6 +6,6 @@ In this project using the 'iris' dataset, we predicted the optimum number of clu
 
 ## TASK#4- EDA (Global Terrorism)
 
-In this project using the 'Global terrorism' dataset,we performed Exploratory Data analysis and tried to find out the hot zone of terrorism
+In this project using the 'Global terrorism' dataset,we performed Exploratory Data analysis and tried to found out the hot zone of terrorism
 
 
